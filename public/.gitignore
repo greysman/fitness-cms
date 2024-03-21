@@ -1,0 +1,10 @@
+*.jpg
+mix-manifest.json
+images
+backend
+products
+profiles
+robots.txt
+.DS_Store
+js/app.js
+css/app.css
